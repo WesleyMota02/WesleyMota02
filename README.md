@@ -8,7 +8,14 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img
+    align="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="http://googleusercontent.com/image_collection/image_retrieval/9868378433564243715_0"
+/>
 <img 
     align="left" 
     alt="HTML"
