@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesley Mota 👩🏻‍💻 
 
 - 🔭 Atualmente, trabalho em uma multinacional do setor de vidros automotivos.
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no Terceiro semestre.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas, atualmente no Quarto semestre.
 - 👯 Atualmente, estou em busca de uma oportunidade de estágio na área de TI, com o objetivo de desenvolver minhas habilidades e adquirir mais experiência na área.
 - 📫 instagram @_.motaas._
 ---
