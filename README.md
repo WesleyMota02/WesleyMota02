@@ -31,19 +31,29 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
+
   <p><strong>Mobile & Frontend</strong></p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
   
-  <br/>
+  <br/><br/>
+  <p><strong>Linguagens</strong></p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+
+  <br/><br/>
   <p><strong>Backend, Cloud & Ferramentas</strong></p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 </div>
 
 ---
@@ -52,12 +62,10 @@
 ### 🚀 Meus Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/WesleyMota02/ServiFast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WesleyMota02&repo=ServiFast&theme=tokyonight" alt="ServiFast Repo Card" />
-  </a>
-  <a href="https://github.com/WesleyMota02/VanTrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WesleyMota02&repo=VanTrack&theme=tokyonight" alt="VanTrack Repo Card" />
-  </a>
+
+[![ServiFast](https://github-readme-stats.vercel.app/api/pin/?username=WesleyMota02&repo=Servifast&theme=tokyonight)](https://github.com/WesleyMota02/Servifast)
+[![VanTrack](https://github-readme-stats.vercel.app/api/pin/?username=WesleyMota02&repo=VanTrack&theme=tokyonight)](https://github.com/WesleyMota02/VanTrack)
+
 </div>
 
 ---
@@ -66,10 +74,13 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyMota02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMota02&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=WesleyMota02&theme=tokyonight" alt="GitHub Streak" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WesleyMota02&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMota02&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=WesleyMota02&theme=tokyonight)
+
 </div>
 
 ---
@@ -82,13 +93,8 @@
 <br/>
 
 <!-- 🐍 9. GRÁFICO DE CONTRIBUIÇÕES ANIMADO -->
-<!-- Lembre-se: Para a cobrinha funcionar, você precisa configurar a GitHub Action (https://github.com/Platane/snk) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesleyMota02/WesleyMota02/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesleyMota02/WesleyMota02/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WesleyMota02/WesleyMota02/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
