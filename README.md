@@ -58,18 +58,6 @@
 
 ---
 
-<!-- 📌 6. PROJETOS EM DESTAQUE -->
-### 🚀 Meus Projetos em Destaque
-
-<div align="center">
-
-[![ServiFast](https://github-readme-stats.vercel.app/api/pin/?username=WesleyMota02&repo=Servifast&theme=tokyonight)](https://github.com/WesleyMota02/Servifast)
-[![VanTrack](https://github-readme-stats.vercel.app/api/pin/?username=WesleyMota02&repo=VanTrack&theme=tokyonight)](https://github.com/WesleyMota02/VanTrack)
-
-</div>
-
----
-
 <!-- 📊 5. ESTATÍSTICAS DO GITHUB -->
 ### 📊 Minhas Estatísticas
 
