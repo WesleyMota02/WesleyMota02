@@ -56,25 +56,6 @@
 
 </div>
 
----
-
-<!-- 📊 5. ESTATÍSTICAS DO GITHUB -->
-### 📊 Minhas Estatísticas
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=WesleyMota02&theme=tokyonight)
-
-</div>
-
----
-
-<!-- 🏆 8. TROFÉUS -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WesleyMota02&theme=tokyonight&no-frame=true&row=1" alt="Trophies" />
-</div>
-
-<br/>
 
 <!-- 🐍 9. GRÁFICO DE CONTRIBUIÇÕES ANIMADO -->
 <div align="center">
